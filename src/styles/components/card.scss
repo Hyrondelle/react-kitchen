@@ -24,9 +24,8 @@
         justify-content: space-between;
     }
     .ingredients{
-        width: 200px;
-        height: 150px;
-        padding: 5px;
-        overflow: hidden;
+        width: 198px;
+        height: 130px;
+        overflow-y: auto;
     }
 }
