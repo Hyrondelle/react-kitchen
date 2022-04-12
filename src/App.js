@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path='/' exact element={<Home/>}/>
+          <Route path='/react-kitchen' exact element={<Home/>}/>
         </Routes>
       </BrowserRouter>
     </div>
