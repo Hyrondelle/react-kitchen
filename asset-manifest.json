@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-kitchen/static/css/main.675fe643.css",
+    "main.js": "/react-kitchen/static/js/main.8b22a747.js",
+    "index.html": "/react-kitchen/index.html",
+    "main.675fe643.css.map": "/react-kitchen/static/css/main.675fe643.css.map",
+    "main.8b22a747.js.map": "/react-kitchen/static/js/main.8b22a747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.675fe643.css",
+    "static/js/main.8b22a747.js"
+  ]
+}
