@@ -3,7 +3,9 @@ import React from 'react';
 const Card = (props) => {
     return (
         <div className='card'>
-            <img className='image' src={props.food.image_front_thumb_url}/>
+            <img className='image' 
+            alt='product'
+            src={props.food.image_front_thumb_url}/>
             <h3>{props.food.product_name}</h3>
             <div className='infos'>
                 <div className='infos_product'>

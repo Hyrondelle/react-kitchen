@@ -6,7 +6,11 @@
     border-radius: 7px;
     padding: 2px;
     color: black;
-
+    &:hover{
+        transform: scale(1.05,1.05);
+        transition:  ease-in-out 0.4s;
+        cursor: pointer;
+    }
     h3{
         height: 20px;
         overflow: hidden;
